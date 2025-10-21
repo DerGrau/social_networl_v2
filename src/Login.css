@@ -14,7 +14,7 @@
   --primary-2: #5b0030;
   --ring: rgba(177, 18, 72, 0.45);
   --shadow: 0 0 40px rgba(100, 0, 50, 0.5);
-  --font-gothic: "Cinzel Decorative", "UnifrakturCook", serif;
+  /*--font-gothic: "Cinzel Decorative", "UnifrakturCook", serif;*/
 }
 
 @media (prefers-color-scheme: light) {
@@ -180,6 +180,7 @@
   font-family: "UnifrakturCook", serif;
   text-shadow: 0 0 6px rgba(177, 18, 72, 0.3);
 }
+
 
 
 
