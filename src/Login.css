@@ -47,7 +47,7 @@
     ),
     var(--bg);
   color: var(--text);
-  /*font-family: var(--font-gothic), serif;*/
+  font-family: var(--font-gothic), serif;
   letter-spacing: 0.02em;
   text-rendering: optimizeLegibility;
 }
@@ -95,7 +95,7 @@
   padding: 10px 12px;
   outline: none;
   transition: all 0.2s ease;
-  font-family: var(--font-gothic);
+  /*font-family: var(--font-gothic);*/
 }
 .login input::placeholder {
   color: var(--muted);
@@ -180,6 +180,7 @@
   font-family: "UnifrakturCook", serif;
   text-shadow: 0 0 6px rgba(177, 18, 72, 0.3);
 }
+
 
 
 
