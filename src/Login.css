@@ -1,7 +1,7 @@
 /* Login.css — визуально совпадает с Profile.css (готическая версия, те же токены и кнопки) */
 
 /* ===== ШРИФТЫ ============================================================ */
-@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=UnifrakturCook:wght@700&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=UnifrakturCook:wght@700&display=swap");*/
 
 /* ===== ТЕМНЫЕ ПЕРЕМЕННЫЕ ================================================= */
 :root {
@@ -180,5 +180,6 @@
   font-family: "UnifrakturCook", serif;
   text-shadow: 0 0 6px rgba(177, 18, 72, 0.3);
 }
+
 
 
