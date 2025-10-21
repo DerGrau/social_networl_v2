@@ -123,7 +123,6 @@
   cursor: pointer;
   transition: all 0.15s ease;
   font-family: var(--font-gothic);
-  text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 
@@ -181,4 +180,5 @@
   font-family: "UnifrakturCook", serif;
   text-shadow: 0 0 6px rgba(177, 18, 72, 0.3);
 }
+
 
